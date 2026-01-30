@@ -54,34 +54,18 @@ O arquivo _train.log_ contém os logs do treinamento, contando com os losses e S
 
 ### Amostra 1
 
-**Mixture:**
+**Mixture:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/inputs/sample_1.mp3
 
-<audio controls src="musdb18_samples/inputs/sample_1.mp3"></audio>
-
-
-**Vocal:**
-
-<audio controls src="musdb18_samples/outputs/sample_1.mp3"></audio>
+**Vocal:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/outputs/sample_1.mp3
 
 ### Amostra 2
 
-**Mixture:**
+**Mixture:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/inputs/sample_2.mp3
 
-<audio controls src="musdb18_samples/inputs/sample_2.mp3"></audio>
-
-
-**Vocal:**
-
-<audio controls src="musdb18_samples/outputs/sample_2.mp3"></audio>
-
+**Vocal:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/outputs/sample_2.mp3
 
 ### Amostra 3
 
-**Mixture:**
+**Mixture:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/inputs/sample_3.mp3
 
-<audio controls src="musdb18_samples/inputs/sample_3.mp3"></audio>
-
-
-**Vocal:**
-
-<audio controls src="musdb18_samples/outputs/sample_3.mp3"></audio>
+**Vocal:** https://github.com/Gustavo-Nogueira/GAN_Network_Laboratory/raw/refs/heads/main/musdb18_project/musdb18_samples/outputs/sample_3.mp3
