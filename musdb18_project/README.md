@@ -48,7 +48,7 @@ Devido às limitações de tempo (treinamento lento), foi possível treinar apen
 
 ## Logs do Treinamento
 
-O arquivo _train.log_ contém os logs do treinamento, contando com os losses e SDR de validação.
+O arquivo _train_logs.txt_ contém os logs do treinamento, contando com os losses e SDR de validação.
 
 ## Resultados
 

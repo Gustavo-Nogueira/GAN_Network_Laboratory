@@ -1,0 +1,692 @@
+============================================================
+Época 1/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 9.1348
+  Generator GAN: 2.2920
+  Generator L1: 0.1307
+  Generator Perceptual: 0.0310
+  Discriminator: 0.3345
+    D Real: 0.3350
+    D Fake: 0.3340
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 2/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.0453
+  Generator GAN: 2.2701
+  Generator L1: 0.1147
+  Generator Perceptual: 0.0041
+  Discriminator: 0.3455
+    D Real: 0.3444
+    D Fake: 0.3467
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 4.62 dB
+  L1 Medio: 0.1342
+Melhor modelo salvo - SDR: 4.62 dB
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 3/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.8987
+  Generator GAN: 2.2486
+  Generator L1: 0.1321
+  Generator Perceptual: 0.0047
+  Discriminator: 0.3877
+    D Real: 0.3843
+    D Fake: 0.3911
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 4/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.1695
+  Generator GAN: 2.3039
+  Generator L1: 0.1165
+  Generator Perceptual: 0.0040
+  Discriminator: 0.3254
+    D Real: 0.3254
+    D Fake: 0.3254
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 5.66 dB
+  L1 Medio: 0.1180
+Melhor modelo salvo - SDR: 5.66 dB
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 5/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.0793
+  Generator GAN: 2.3053
+  Generator L1: 0.1147
+  Generator Perceptual: 0.0039
+  Discriminator: 0.3253
+    D Real: 0.3252
+    D Fake: 0.3253
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 6/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.0639
+  Generator GAN: 2.3064
+  Generator L1: 0.1144
+  Generator Perceptual: 0.0038
+  Discriminator: 0.3255
+    D Real: 0.3254
+    D Fake: 0.3256
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 5.70 dB
+  L1 Medio: 0.1170
+Melhor modelo salvo - SDR: 5.70 dB
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 7/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.0287
+  Generator GAN: 2.3051
+  Generator L1: 0.1137
+  Generator Perceptual: 0.0038
+  Discriminator: 0.3253
+    D Real: 0.3253
+    D Fake: 0.3254
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 8/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 8.0069
+  Generator GAN: 2.3049
+  Generator L1: 0.1133
+  Generator Perceptual: 0.0037
+  Discriminator: 0.3254
+    D Real: 0.3254
+    D Fake: 0.3254
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 5.82 dB
+  L1 Medio: 0.1163
+Melhor modelo salvo - SDR: 5.82 dB
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 9/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9748
+  Generator GAN: 2.3047
+  Generator L1: 0.1127
+  Generator Perceptual: 0.0037
+  Discriminator: 0.3254
+    D Real: 0.3254
+    D Fake: 0.3254
+  LR atual - G: 0.000100, D: 0.000400
+
+============================================================
+Época 10/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9508
+  Generator GAN: 2.3043
+  Generator L1: 0.1122
+  Generator Perceptual: 0.0036
+  Discriminator: 0.3253
+    D Real: 0.3253
+    D Fake: 0.3253
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.03 dB
+  L1 Medio: 0.1146
+Melhor modelo salvo - SDR: 6.03 dB
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 11/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9302
+  Generator GAN: 2.3032
+  Generator L1: 0.1118
+  Generator Perceptual: 0.0036
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 12/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9201
+  Generator GAN: 2.3039
+  Generator L1: 0.1116
+  Generator Perceptual: 0.0036
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3253
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 5.98 dB
+  L1 Medio: 0.1147
+SDR nao melhorou (1/15)
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 13/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9479
+  Generator GAN: 2.3009
+  Generator L1: 0.1122
+  Generator Perceptual: 0.0036
+  Discriminator: 0.3314
+    D Real: 0.3299
+    D Fake: 0.3329
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 14/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9251
+  Generator GAN: 2.3033
+  Generator L1: 0.1117
+  Generator Perceptual: 0.0035
+  Discriminator: 0.3252
+    D Real: 0.3251
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.08 dB
+  L1 Medio: 0.1142
+Melhor modelo salvo - SDR: 6.08 dB
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 15/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.9111
+  Generator GAN: 2.3040
+  Generator L1: 0.1114
+  Generator Perceptual: 0.0035
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 16/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8999
+  Generator GAN: 2.3039
+  Generator L1: 0.1112
+  Generator Perceptual: 0.0035
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.04 dB
+  L1 Medio: 0.1141
+SDR nao melhorou (1/15)
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 17/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8915
+  Generator GAN: 2.3038
+  Generator L1: 0.1111
+  Generator Perceptual: 0.0035
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 18/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8824
+  Generator GAN: 2.3037
+  Generator L1: 0.1109
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.05 dB
+  L1 Medio: 0.1140
+SDR nao melhorou (2/15)
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 19/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8767
+  Generator GAN: 2.3036
+  Generator L1: 0.1108
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000080, D: 0.000320
+
+============================================================
+Época 20/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8718
+  Generator GAN: 2.3036
+  Generator L1: 0.1107
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.05 dB
+  L1 Medio: 0.1138
+SDR nao melhorou (3/15)
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 21/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8661
+  Generator GAN: 2.3030
+  Generator L1: 0.1106
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 22/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8662
+  Generator GAN: 2.3063
+  Generator L1: 0.1105
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3267
+    D Real: 0.3268
+    D Fake: 0.3265
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.11 dB
+  L1 Medio: 0.1135
+Melhor modelo salvo - SDR: 6.11 dB
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 23/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8645
+  Generator GAN: 2.3029
+  Generator L1: 0.1106
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 24/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8615
+  Generator GAN: 2.3028
+  Generator L1: 0.1105
+  Generator Perceptual: 0.0034
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.17 dB
+  L1 Medio: 0.1135
+Melhor modelo salvo - SDR: 6.17 dB
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 25/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8524
+  Generator GAN: 2.3034
+  Generator L1: 0.1103
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 26/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8501
+  Generator GAN: 2.3032
+  Generator L1: 0.1103
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.10 dB
+  L1 Medio: 0.1134
+SDR nao melhorou (1/15)
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 27/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8467
+  Generator GAN: 2.3033
+  Generator L1: 0.1102
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 28/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8430
+  Generator GAN: 2.3033
+  Generator L1: 0.1101
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.29 dB
+  L1 Medio: 0.1132
+Melhor modelo salvo - SDR: 6.29 dB
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 29/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8364
+  Generator GAN: 2.3033
+  Generator L1: 0.1100
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+  LR atual - G: 0.000064, D: 0.000256
+
+============================================================
+Época 30/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8355
+  Generator GAN: 2.3032
+  Generator L1: 0.1100
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3252
+    D Real: 0.3252
+    D Fake: 0.3252
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.19 dB
+  L1 Medio: 0.1131
+SDR nao melhorou (1/15)
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 31/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8299
+  Generator GAN: 2.3028
+  Generator L1: 0.1099
+  Generator Perceptual: 0.0033
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 32/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8266
+  Generator GAN: 2.3030
+  Generator L1: 0.1098
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.25 dB
+  L1 Medio: 0.1131
+SDR nao melhorou (2/15)
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 33/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8224
+  Generator GAN: 2.3030
+  Generator L1: 0.1097
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 34/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8217
+  Generator GAN: 2.3029
+  Generator L1: 0.1097
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.17 dB
+  L1 Medio: 0.1130
+SDR nao melhorou (3/15)
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 35/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8255
+  Generator GAN: 2.3046
+  Generator L1: 0.1098
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3260
+    D Real: 0.3258
+    D Fake: 0.3263
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 36/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8182
+  Generator GAN: 2.3028
+  Generator L1: 0.1097
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.22 dB
+  L1 Medio: 0.1130
+SDR nao melhorou (4/15)
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 37/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8166
+  Generator GAN: 2.3029
+  Generator L1: 0.1096
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 38/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8143
+  Generator GAN: 2.3030
+  Generator L1: 0.1096
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.21 dB
+  L1 Medio: 0.1128
+SDR nao melhorou (5/15)
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 39/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8118
+  Generator GAN: 2.3030
+  Generator L1: 0.1095
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000051, D: 0.000205
+
+============================================================
+Época 40/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8086
+  Generator GAN: 2.3030
+  Generator L1: 0.1095
+  Generator Perceptual: 0.0032
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.24 dB
+  L1 Medio: 0.1129
+SDR nao melhorou (6/15)
+  LR atual - G: 0.000041, D: 0.000164
+
+============================================================
+Época 41/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8058
+  Generator GAN: 2.3027
+  Generator L1: 0.1094
+  Generator Perceptual: 0.0031
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+  LR atual - G: 0.000041, D: 0.000164
+
+============================================================
+Época 42/100
+============================================================
+
+Losses de Treinamento:
+  Generator Total: 7.8051
+  Generator GAN: 2.3028
+  Generator L1: 0.1094
+  Generator Perceptual: 0.0031
+  Discriminator: 0.3251
+    D Real: 0.3251
+    D Fake: 0.3251
+                                                                                                                                                                                                                                              
+Metricas de Validacao:
+  SDR Medio: 6.25 dB
+  L1 Medio: 0.1129
+SDR nao melhorou (7/15)
+  LR atual - G: 0.000041, D: 0.000164
